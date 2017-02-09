@@ -1,0 +1,11 @@
+{
+    " compilerOptions ": {
+        " target ": " es5 ",
+        " experimentalDecorators ": true,
+        " emitDecoratorMetadata ": true,
+        " sourceMap ": true,
+        " module ": " commonjs ",
+        " noImplicitAny ": false
+    },
+    " exclude ": [" node_modules "]
+}
